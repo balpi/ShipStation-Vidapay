@@ -25,7 +25,7 @@ namespace ShipStation.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("d5a1e9a23b2743aea8ae5321918508de")]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
         public string api {
             get {
                 return ((string)(this["api"]));
@@ -37,7 +37,7 @@ namespace ShipStation.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("e4963eba7a6449bfb0f92b862f0a7fb2")]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
         public string secret {
             get {
                 return ((string)(this["secret"]));
@@ -49,7 +49,7 @@ namespace ShipStation.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("candikel@yahoo.com")]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
         public string hotspotuser {
             get {
                 return ((string)(this["hotspotuser"]));
@@ -61,7 +61,7 @@ namespace ShipStation.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("100364AkRd")]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
         public string hotspotpass {
             get {
                 return ((string)(this["hotspotpass"]));
@@ -73,7 +73,7 @@ namespace ShipStation.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("100364AkRd")]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
         public string password {
             get {
                 return ((string)(this["password"]));
@@ -97,7 +97,7 @@ namespace ShipStation.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("balpi")]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
         public string dbcuser {
             get {
                 return ((string)(this["dbcuser"]));
@@ -109,7 +109,7 @@ namespace ShipStation.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("HavBer+2121")]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
         public string dbcpass {
             get {
                 return ((string)(this["dbcpass"]));
@@ -157,7 +157,6 @@ namespace ShipStation.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("False")]
         public bool visib {
             get {
                 return ((bool)(this["visib"]));

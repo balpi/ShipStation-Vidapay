@@ -1,17 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Diagnostics;
-using System.Net.Http.Headers;
-using System.Text;
 using System.Windows.Forms;
-using System.Net;
 using RestSharp;
-using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
-using System.Collections;
 using System.IO;
 using System.ComponentModel;
-using System.Threading;
 
 namespace ShipStation
 {
