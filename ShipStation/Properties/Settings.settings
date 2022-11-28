@@ -1,0 +1,42 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ShipStation.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="api" Type="System.String" Scope="User">
+      <Value Profile="(Default)">d5a1e9a23b2743aea8ae5321918508de</Value>
+    </Setting>
+    <Setting Name="secret" Type="System.String" Scope="User">
+      <Value Profile="(Default)">e4963eba7a6449bfb0f92b862f0a7fb2</Value>
+    </Setting>
+    <Setting Name="hotspotuser" Type="System.String" Scope="User">
+      <Value Profile="(Default)">candikel@yahoo.com</Value>
+    </Setting>
+    <Setting Name="hotspotpass" Type="System.String" Scope="User">
+      <Value Profile="(Default)">100364AkRd</Value>
+    </Setting>
+    <Setting Name="password" Type="System.String" Scope="User">
+      <Value Profile="(Default)">100364AkRd</Value>
+    </Setting>
+    <Setting Name="price" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="dbcuser" Type="System.String" Scope="User">
+      <Value Profile="(Default)">balpi</Value>
+    </Setting>
+    <Setting Name="dbcpass" Type="System.String" Scope="User">
+      <Value Profile="(Default)">HavBer+2121</Value>
+    </Setting>
+    <Setting Name="vidauser" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="vidapass" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="vidaid" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="visib" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
